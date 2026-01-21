@@ -13,9 +13,9 @@ in its software projects. Apache Superset is highly sensitive and forthcoming to
 pertaining to its features and functionality.
 If you have any concern or believe you have found a vulnerability in Apache Superset,
 please get in touch with the Apache Superset Security Team privately at
-e-mail address [security@superset.apache.org](mailto:security@superset.apache.org).
+[security@superset.apache.org](mailto:security@superset.apache.org).
 
-More details can be found on the ASF website at
+More details can be found on the ASF website: 
 [ASF vulnerability reporting process](https://apache.org/security/#reporting-a-vulnerability)
 
 We kindly ask you to include the following information in your report:
